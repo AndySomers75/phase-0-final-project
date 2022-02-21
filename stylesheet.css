@@ -16,7 +16,7 @@ div {
   margin: 40px auto;
   width: 980px;
   height: 622px;
-  background: url: /pexels.com/photo/person-sitting-on-mountain-cliff-1659438 no-repeat center;
+  background-color: aliceblue;
   -moz-box-shadow: 15px 15px 47px lime, -15px -15px 47px aqua;
   -webkit-box-shadow: 15px 15px 47px rgb(255, 0, 64), -15px -15px 47px aqua;
   box-shadow: 15px 15px 47px rgb(255, 0, 64), -15px -15px 47px aqua;
