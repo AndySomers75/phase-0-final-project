@@ -6,16 +6,17 @@ body {
     
 }
 
+
 h1 {
-    size: 10%;
+    size: 20%;
     font-size: 140px;
     font: bold ;
     color: burlywood;
     text-align: center;
+    background-color: blue;
 }
 
 article {
-  position: static;
   margin: 10px;
   padding: 5px;
   background-color: grey;
@@ -37,17 +38,12 @@ h3 {
     margin: auto;
 }
 footer {
-    display: block;
-    background-color: red;
-    margin: 0;
-    width: 99%;
-    color: red;
-}
-section {
-    float: left;
-    width: 2000px;
     
+    background-color: red;
+    padding: 5px;
+        
 }
+
 .column {
     float: left;
     width: 20%;
@@ -58,11 +54,10 @@ section {
     display: table;
 }
 .divfootercolumn {
-    margin: 0 auto;
     float: left;
-    width: 25%;
+    width: 80%;
 }
-.rowfooterrow {
+.divfooterrow {
     content: "";
     clear: both;
     display: table;
