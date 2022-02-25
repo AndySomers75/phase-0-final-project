@@ -1,21 +1,23 @@
 body {
     width: 100%;
     height: 100%;
+    margin: auto;
 }
 
 
 h1 {
-    size: 70%;
+    size: 90%;
     font-size: 140px;
     font: bold ;
     color: burlywood;
     text-align: center;
     background-color: blue;
+    margin: auto;
+    
 }
 
 article {
-  margin: 10px;
-  padding: 5px;
+  margin: auto;
   background-color: grey;
     box-shadow: 15px 15px 47px rgb(255, 0, 64), -15px -15px 47px aqua;
   border: 15px solid white;
@@ -26,7 +28,7 @@ article {
 h2 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 75px;
-    color: gold;
+    color: gold; 
     text-align: center;
 }
 h3 {
