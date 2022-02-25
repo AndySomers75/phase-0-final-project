@@ -5,7 +5,7 @@ body {
 
 
 h1 {
-    size: 20%;
+    size: 70%;
     font-size: 140px;
     font: bold ;
     color: burlywood;
@@ -27,6 +27,7 @@ h2 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 75px;
     color: gold;
+    text-align: center;
 }
 h3 {
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -34,11 +35,13 @@ h3 {
     color: blue;
     margin: auto;
 }
-     
-
-
+   
+.row {
+    display: flex;
+}
 .column {
-    
+    text-align: center;
+    float: left;
     content: "";
     clear: both;
     width: 20%;
